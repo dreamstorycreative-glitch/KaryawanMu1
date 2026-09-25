@@ -1,0 +1,6 @@
+{
+  "name": "KaryawanMu - Digital Team untuk Kantor Anda",
+  "description": "Platform digital office & HRIS yang menggabungkan Human Team & AI Digital Workers untuk absensi, cuti, payroll, finance, pajak, denah kantor interaktif, dan task management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
